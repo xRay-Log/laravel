@@ -1,6 +1,12 @@
 # xRay for Laravel
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xRay-Log/xRay/main/assets/featured.jpg" alt="xRay Logo">
+</p>
+
 Laravel integration for xRay. This package provides an easy way to debug and log your Laravel application.
+
+**Main Application:** [xRay](https://github.com/xRay-Log/xRay)
 
 <p align="center">
 <a href="https://github.com/XRay-Log/laravel/actions"><img src="https://github.com/XRay-Log/laravel/workflows/tests/badge.svg" alt="Build Status"></a>
