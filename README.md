@@ -20,7 +20,7 @@ Laravel integration for xRay. This package provides an easy way to debug and log
 You can install the package via composer:
 
 ```bash
-composer require xray-log/laravel
+composer require --dev xray-log/laravel 
 ```
 
 ## Usage
